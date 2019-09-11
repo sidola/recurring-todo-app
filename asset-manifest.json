@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recurring-todo-app/static/css/main.d6195583.chunk.css",
-    "main.js": "/recurring-todo-app/static/js/main.1c9bc0f5.chunk.js",
-    "main.js.map": "/recurring-todo-app/static/js/main.1c9bc0f5.chunk.js.map",
+    "main.js": "/recurring-todo-app/static/js/main.f90568b2.chunk.js",
+    "main.js.map": "/recurring-todo-app/static/js/main.f90568b2.chunk.js.map",
     "runtime~main.js": "/recurring-todo-app/static/js/runtime~main.271a20c2.js",
     "runtime~main.js.map": "/recurring-todo-app/static/js/runtime~main.271a20c2.js.map",
     "static/css/2.ff9ea1f9.chunk.css": "/recurring-todo-app/static/css/2.ff9ea1f9.chunk.css",
-    "static/js/2.531bda9a.chunk.js": "/recurring-todo-app/static/js/2.531bda9a.chunk.js",
-    "static/js/2.531bda9a.chunk.js.map": "/recurring-todo-app/static/js/2.531bda9a.chunk.js.map",
+    "static/js/2.b5ea1a0b.chunk.js": "/recurring-todo-app/static/js/2.b5ea1a0b.chunk.js",
+    "static/js/2.b5ea1a0b.chunk.js.map": "/recurring-todo-app/static/js/2.b5ea1a0b.chunk.js.map",
     "index.html": "/recurring-todo-app/index.html",
-    "precache-manifest.acf9c7ae760e314f1bf11cba35185565.js": "/recurring-todo-app/precache-manifest.acf9c7ae760e314f1bf11cba35185565.js",
+    "precache-manifest.120f4b178a8f0bf0ebac141530e3a301.js": "/recurring-todo-app/precache-manifest.120f4b178a8f0bf0ebac141530e3a301.js",
     "service-worker.js": "/recurring-todo-app/service-worker.js",
     "static/css/2.ff9ea1f9.chunk.css.map": "/recurring-todo-app/static/css/2.ff9ea1f9.chunk.css.map",
     "static/css/main.d6195583.chunk.css.map": "/recurring-todo-app/static/css/main.d6195583.chunk.css.map"
