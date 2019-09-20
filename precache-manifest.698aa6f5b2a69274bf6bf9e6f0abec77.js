@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbb2095f8737ef2b959ffc38c7b3487d",
+    "revision": "f0b3b7c659ba369f5f6dcf91620aa479",
     "url": "/recurring-todo-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recurring-todo-app/static/css/2.ff9ea1f9.chunk.css"
   },
   {
-    "revision": "07d1732d0cf8c3dfb26c",
+    "revision": "48b3730718341e2f0db7",
     "url": "/recurring-todo-app/static/css/main.8809e425.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recurring-todo-app/static/js/2.22501af3.chunk.js"
   },
   {
-    "revision": "07d1732d0cf8c3dfb26c",
-    "url": "/recurring-todo-app/static/js/main.18609d8c.chunk.js"
+    "revision": "48b3730718341e2f0db7",
+    "url": "/recurring-todo-app/static/js/main.6e6ed815.chunk.js"
   },
   {
     "revision": "1558408ff10bac6c52c0",
